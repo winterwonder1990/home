@@ -1,0 +1,103 @@
+
+
+
+
+ .link1-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:5%;
+ }
+
+ .link2-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: rgb(27, 6, 104);
+    left: 1%;
+    top:14%;
+ }
+
+ .link3-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:23%;
+ }
+
+ .link4-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:32%;
+ }
+
+ .link5-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:41%;
+ }
+
+ .link6-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:50%;
+ }
+
+ .link7-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:59%;
+ }
+
+ .link8-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:68%;
+ }
+
+ .link9-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:77%;
+ }
+
+ .link10-name{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:86%;
+ }

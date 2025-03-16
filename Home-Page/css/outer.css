@@ -1,0 +1,33 @@
+
+
+
+
+
+ .body{
+    background-color: black;
+    display: flex;
+   
+    height: 100%;
+    width: 100%;
+ }
+
+ .links-container{
+    position: absolute;
+    display: none;
+    height: 50%;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    left:25%;
+    top:15%;
+ }
+
+ .menu-container{
+    position: absolute;
+    display: flex;
+    height: 50%;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    left:25%;
+    top:15%;
+ }
+ 

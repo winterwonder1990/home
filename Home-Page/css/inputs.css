@@ -1,0 +1,102 @@
+
+
+
+.input-1{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:5%;
+}
+
+.input-2{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: rgb(27, 6, 104);
+    left: 1%;
+    top:14%;
+ }
+
+ .input-3{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:23%;
+ }
+
+ .input-4{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:32%;
+ }
+
+ .input-5{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:41%;
+ }
+
+ .input-6{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:50%;
+ }
+
+ .input-7{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:59%;
+ }
+
+ .input-8{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:68%;
+ }
+
+ .input-9{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:77%;
+ }
+
+ .input-10{
+    display: flex;
+    position: absolute;
+    height: 8%;
+    width: 30%;
+    background-color: aqua;
+    left: 1%;
+    top:86%;
+ }
